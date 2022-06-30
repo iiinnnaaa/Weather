@@ -19,3 +19,4 @@ Notes:
 - ability to easily add new data sources (how to register them, interfaces etc.)
 - clean data separation
 - nice to have - latest PHP mechanisms (ex. traits)
+    

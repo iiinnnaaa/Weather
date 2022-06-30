@@ -17,7 +17,7 @@ class CountriesAndCitiesSeeder extends Seeder
      */
     public function run()
     {
-        //truncate countries and cities tables
+        //truncate countries and cities tables (make them empty)
         Country::truncate();
         City::truncate();
 
